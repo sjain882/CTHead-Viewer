@@ -8,6 +8,8 @@ My first attempt at implementing:
 - Gamma correction lookup table
 - Set of thumbnails all rendered inside an image (no GUI layouts used)
 
+![2024-11-23_23-04-17](https://github.com/user-attachments/assets/f66d9355-fa85-4281-ab31-6bb24d464ff3)
+
 ## Building
 
 1. Clone this repository and open as a project in IntelliJ IDEA. Ensure you are using the Java 17 JDK.
